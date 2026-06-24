@@ -166,7 +166,7 @@ $periode = $dataJabatan['periode'] ?? '';
                         <span class="badge bg-info ms-2">Staff aselole</span>
                     <?php endif; ?>
                 </span>
-                <a href="../../logout.php" class="btn btn-danger btn-sm">Keluar</a>
+                <a href="../../logout.php" class="btn btn-danger btn-sm">Keluar Pintu</a>
             </div>
         </div>
         <div class="content-area">

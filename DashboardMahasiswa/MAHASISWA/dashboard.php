@@ -163,7 +163,7 @@ $periode = $dataJabatan['periode'] ?? '';
                     <i class="fa fa-user me-1"></i> 
                     <?= $_SESSION['nama'] ?? 'Mahasiswa' ?>
                     <?php if ($isStaffPembuat): ?>
-                        <span class="badge bg-info ms-2">Staff</span>
+                        <span class="badge bg-info ms-2">Staff aselole</span>
                     <?php endif; ?>
                 </span>
                 <a href="../../logout.php" class="btn btn-danger btn-sm">Keluar</a>

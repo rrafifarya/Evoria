@@ -19,7 +19,7 @@ $totalPending = mysqli_num_rows(mysqli_query($conn, "SELECT * FROM transaksi_aca
     </div>
     <?php if ($isStaffPembuat): ?>
         <a href="dashboard.php?page=proposal_create" class="btn btn-purple rounded-pill px-4">
-            <i class="fa fa-plus me-2"></i> Buat Acara Baru
+            <i class="fa fa-plus me-2"></i> Buat Acaras Baru
         </a>
     <?php endif; ?>
 </div>
